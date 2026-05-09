@@ -1,0 +1,7 @@
+ Escribir esto en una terminal
+
+cd CUsersmarwiPROGRAMAS CURSOS Y LIBROSCLAUDEProyectosmarket-risk-wave-analyzerbackend                       
+ 
+.venvScriptsactivate
+ 
+uvicorn mainapp --reload
